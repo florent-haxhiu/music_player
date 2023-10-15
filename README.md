@@ -8,3 +8,6 @@ The only sort of functionality it will have for now is
 
 I don't know if I will update or upgrade this api as this is for a more personal use case.
 
+## Architecture
+
+![Image of the Architecture](./Architecture.png)
